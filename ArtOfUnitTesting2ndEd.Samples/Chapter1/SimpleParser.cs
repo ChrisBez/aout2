@@ -14,9 +14,7 @@ namespace Chapter1
             if (!numbers.Contains(","))
             {
                 return int.Parse(numbers);
-
-
-
+                
             }
             else
             {
